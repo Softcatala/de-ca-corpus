@@ -13,6 +13,7 @@ This is a collection of aligned German-Catalan sentences that can be used to tra
 | TED2020.ca-de  | https://www.ted.com/  | 46681  | Apr 2021  | CC BY-NC-ND  |    |
 | Tatoeba.ca-de  | https://tatoeba.org/eng/downloads  | 726  | Apr 2021  | CC0 and CC-BY   |
 | Ubuntu.ca-de  | https://ubuntu.com/  | 6916  | Apr 2021  | GNU-GPL   |   |
-| | | **5704163** | | | |
+| covost_v2.ca-de  | https://github.com/facebookresearch/covost  | 263963  | May 2021  | CC0 | Original sentences were in English, and translated by Facebook to Catalan and German.
+| | | **5968126** | | | |
 
 
